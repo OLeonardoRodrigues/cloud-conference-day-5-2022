@@ -3,3 +3,5 @@
 # Cloud Conference Day 5ª Edição - 2022
 
 ## Terraform Import: Como Administrar Recursos de Nuvem Preexistentes com Terraform
+
+Exemplo para Cloud Conference Day 5ª Edição (2022) - Trilha DevOps, sobre importação de recursos com Terraform.
